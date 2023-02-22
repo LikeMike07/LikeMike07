@@ -9,7 +9,6 @@
 
 ### Languages | Frameworks | Tools
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
